@@ -1,0 +1,44 @@
+body {
+	background-color: #fff;
+}
+.wapper{
+	width:60%;
+	margin: 0 auto;
+	background-color: #F0F0F0;
+	
+}
+.commentblock{
+ width: 100%;
+ margin: 0 auto;
+ padding: 25px;
+ border-top: 1px solid #E0E0E0;
+}
+.usercomments{
+	
+ margin: 0 auto;
+ padding: 25px;
+}
+
+.commententry h2 {
+    font-size: 1em;
+    font-weight: bold;
+    display: block;
+    border-bottom: 1px solid #CCC;
+    color: #64838E;
+      
+    }
+
+ .commententry h2   #left{
+ 	float: right;
+ 	color: #64838E;
+ }
+
+  .commententry  p{
+  	color: #64838E;
+  	border-bottom: 1px solid #CCC;
+  }
+  .reply p{
+  	 padding-left: 30px;
+  	 color: #64838E;
+  	 border-bottom: 1px solid #CCC;
+ }
